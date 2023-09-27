@@ -1,0 +1,34 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.over{
+    width: 400px;
+    height: 350px;
+    background-color: green;
+    color: black;
+    overflow: scroll;
+}
+
+i.fa-brands.fa-facebook {
+    font-size: 80px;
+    color: blue;
+}
+i.fa-brands.fa-whatsapp{
+    font-size: 80px;
+    color: green;
+}
+i.fa-brands.fa-twitter{
+    font-size: 80px;
+    color: lightblue;
+}
+i.fa-solid.fa-phone{
+    font-size: 80px;
+    color: darkblue;
+}
+i.fa-brands.fa-youtube{
+    font-size: 80px;
+    color: red;
+}
